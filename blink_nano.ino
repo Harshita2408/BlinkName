@@ -20,25 +20,33 @@ void Dash()
 
 void loop()
 {
+  //morse code for letter H
   Dot();
   Dot();
   Dot();
   Dot();
+  //morse code for letter A
   Dot();                          //morse code for the name HARSHITA
   Dash();
+  //morse code for letter R
   Dot();
   Dash();
   Dot();
+  //morse code for letter S
+  Dot();
+  Dot();
+  Dot();
+  //morse code for letter H
   Dot();
   Dot();
   Dot();
   Dot();
+  //morse code for letter I
   Dot();
   Dot();
-  Dot();
-  Dot();
-  Dot();
+  //morse code for letter T
   Dash();
+  //morse code for letter A
   Dot();
   Dash();
 }
